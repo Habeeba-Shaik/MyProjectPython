@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../POMFrameWork/.idea/POMFrameWork.iml" filepath="$PROJECT_DIR$/../POMFrameWork/.idea/POMFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonBasic.iml" filepath="$PROJECT_DIR$/.idea/PythonBasic.iml" />
+      <module fileurl="file://D:/PythonSelFramework/.idea/PythonSelFramework.iml" filepath="D:/PythonSelFramework/.idea/PythonSelFramework.iml" />
+    </modules>
+  </component>
+</project>

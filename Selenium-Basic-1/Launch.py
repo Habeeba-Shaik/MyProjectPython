@@ -1,0 +1,15 @@
+from selenium import webdriver
+
+driver= webdriver.Chrome(executable_path="C:\\Users\\Habeeba.Shaik\\Downloads\\chromedriver.exe")
+driver.maximize_window()
+driver.get("https://www.tadigital.com/")
+print(driver.title)
+print(driver.current_url)
+driver.get("https://outlook.office.com/")
+print(driver.title)
+print(driver.current_url)
+driver.back()
+driver.refresh()
+driver.forward()
+driver.minimize_window()
+driver.close()
